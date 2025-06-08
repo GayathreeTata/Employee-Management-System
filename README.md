@@ -25,14 +25,14 @@ Before running, ensure you have installed:
 - Maven (for backend)  
 
 ## Backend(Spring Boot)
-cd backend
-src/main/resources/application.properties
-mvn spring-boot:run # run with maven
+- cd backend
+- src/main/resources/application.properties
+- mvn spring-boot:run # run with maven
 
 # Frontend(React)
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 
 
